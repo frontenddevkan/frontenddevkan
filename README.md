@@ -1,5 +1,5 @@
 ### Hello! 👋
-My name is Kate. 
+My name is Ekaterina T. 
 
 🔭 I’m currently looking for a job on frontend developer position.
 
