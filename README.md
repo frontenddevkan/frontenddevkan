@@ -1,12 +1,13 @@
 ### Hello! 👋
 My name is Ekaterina T. 
+### Junior Frontend developer.
 
 🔭 I’m currently looking for a job on frontend developer position.
 
-🌱 I’m learning humburger-menu.
+🌱 I’m learning adaptive web design.
 
 <!--
-**frontenddevkan/frontenddevkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
