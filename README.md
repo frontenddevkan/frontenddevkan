@@ -4,7 +4,7 @@ My name is Ekaterina T.
 
 🔭 I’m currently looking for a job on frontend developer position.
 
-🌱 I’m learning adaptive web design.
+🌱 I’m learning adaptive web design now.
 
 <!--
 ` (this file) appears on your GitHub profile.
