@@ -29,7 +29,10 @@ use flex-box stack, basics html and css. And made new design for it and prepare 
 
 🌱 In december 2022 - spring 2023 - I worked with Landing Page and learn adaptive design. And in this project I made the hamburger menu. [Repository](https://github.com/frontenddevkan/Plants_Landing). This project need to upgrade.
 
+##### LANGUAGES
 
+- English (A-B)
+- Russian
 
 <!--
  I’m looking to collaborate on ...
