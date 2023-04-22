@@ -1,13 +1,14 @@
 ### Hello! 👋
-My name is Ekaterina. I study on 
-### Junior Frontend developer.
+👯 My name is Ekaterina. I study on 
+
+### Junior Frontend developer
 
 #### SKILLS
 - CSS,
 - HTML,
 - JS,
-- landings,
-- 
+-   
+
 (future: webpack, gulp, bootstrap, typeScript, adaptive layout, frameworks - react, svg, vue.js, email layout, node.js, etc. )
 
 - In the begining of my studing in 2022 in September I learn html and css on freeCodeCump.com, and I used sumulators on HTML-academy and some apps on my cell phone to study basic theory.  
@@ -23,13 +24,15 @@ My name is Ekaterina. I study on
 
 #### EXPIRIENCE
 
+🌱  This project created for my doughter in begining for check mathmatics exersices. Than I change a lot rhis project and use flex-box stack. And made new design for it and prepare place for other new mini-projects with javascript code.
+[Link on repository](https://github.com/frontenddevkan/PortalForApps)
+
+🌱 Now I working with Landing Page and learn adaptive design. [Repository](https://github.com/frontenddevkan/Plants_Landing). This project need to upgrade. 
 
 
-🌱 I’m learning adaptive web design now.
 
 <!--
-` (this file) appears on your GitHub profile.
-- 👯 I’m looking to collaborate on ...
+ I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
