@@ -24,10 +24,10 @@
 
 #### EXPIRIENCE
 
-🌱  This project created for my doughter in begining for check mathmatics exersices. Than I change a lot rhis project and use flex-box stack. And made new design for it and prepare place for other new mini-projects with javascript code.
-[Link on repository](https://github.com/frontenddevkan/PortalForApps)
+🌱  In outamn 2022 - I created for my doughter in begining for check mathmatics exersices. Than I changed a lot of this project and 
+use flex-box stack, basics html and css. And made new design for it and prepare place for other new mini-projects with javascript code. [Link on repository](https://github.com/frontenddevkan/PortalForApps)
 
-🌱 Now I working with Landing Page and learn adaptive design. [Repository](https://github.com/frontenddevkan/Plants_Landing). This project need to upgrade. 
+🌱 In december 2022 - spring 2023 - I worked with Landing Page and learn adaptive design. And in this project I made the hamburger menu. [Repository](https://github.com/frontenddevkan/Plants_Landing). This project need to upgrade.
 
 
 
