@@ -3,11 +3,12 @@ My name is Ekaterina. I study on
 ### Junior Frontend developer.
 
 #### SKILLS
-- CSS
-- HTML
-- JS
+- CSS,
+- HTML,
+- JS,
+- landings,
 - 
-(future: frameworks, nodejs, etc. )
+(future: webpack, gulp, bootstrap, typeScript, adaptive layout, frameworks - react, svg, vue.js, email layout, node.js, etc. )
 
 - In the begining of my studing in 2022 in September I learn html and css on freeCodeCump.com, and I used sumulators on HTML-academy and some apps on my cell phone to study basic theory.  
 
