@@ -1,13 +1,11 @@
 ### Hello! 👋
-👯 My name is Ekaterina. I study on 
-
-### Junior Frontend developer
+👯 My name is Ekaterina. I am studing on 
+### Frontend Developer
 
 #### SKILLS
 - CSS,
 - HTML,
-- JS,
--   
+- JS
 
 (future: webpack, gulp, bootstrap, typeScript, adaptive layout, frameworks - react, svg, vue.js, email layout, node.js, etc. )
 
@@ -15,11 +13,11 @@
 
 - In December I attended studing Stage#0 in [Rolling Scopes School](https://rollingscopes.com/). I learned how to work with git and github services. And learned the basics of Markdown when I wrote this introduction. Also I repeat basics of Html and css while studing at RSSchool. 
 
-🔭 I’m currently looking for a job on frontend developer position.
+🔭 I’m currently looking for a job on Tranee/Junior Frontend Developer Position. 
 
 #### CONTACTS
 - [github](https://github.com/frontenddevkan)
-- email: frontenddevkan@gmail.com
+- email: ekaterinalayout@gmail.com
 - Tyumen, Russia
 
 #### EXPIRIENCE
