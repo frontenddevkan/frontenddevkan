@@ -1,22 +1,25 @@
 ### Hello! 👋   My name is Ekaterina. I am studing on 
-## Frontend Developer
+## Frontend Developer 
+position
 
 #### MY SKILLS
-- HTML, CSS
-- JS
+- Markdown;
+- HTML, CSS;
+- JavaScript (#JS);
+- 
 
 #### MY CONTACTS
 - [github](https://github.com/frontenddevkan)
 - email: ekaterinalayout@gmail.com
+- telegram: @frontendEka
 - Russia
 
 #### EXPIRIENCE
 
-🌱  In outamn 2022 - I created for my doughter in begining for check mathmatics exersices. Than I changed a lot of this project and 
-use flex-box stack, basics html and css. And made new design for it and prepare place 
+🌱  In outamn 2022 - I created for my doughter in begining for check mathmatics exersices. Than I changed a lot of this project and use **flexbox**, basics html and css. And made new design for it and prepare place 
 for other new mini-projects with javascript code. [Link on repository](https://github.com/frontenddevkan/PortalForApps)
 
-🌱 In december 2022 - spring 2023 - I worked with Landing Page and learn adaptive design. And in this project I made the hamburger menu. [Repository](https://github.com/frontenddevkan/Plants_Landing). 
+🌱 In december 2022 - spring 2023 - I worked with **Landing Page** and learn **adaptive design**. And in this project I made the hamburger menu. [Repository](https://github.com/frontenddevkan/Plants_Landing). Also project use flexbox. 
 
 #### STUDING
 - In the begining of my studing in 2022 in September I learn html and css on freeCodeCump.com, 
