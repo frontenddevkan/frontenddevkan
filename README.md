@@ -3,7 +3,7 @@
 position
 
 #### MY SKILLS
-- Markdown;
+- Git, Markdown;
 - HTML, CSS;
 - JavaScript (#JS);
 - 
