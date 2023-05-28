@@ -29,7 +29,7 @@ for other new mini-projects with javascript code. [Link on repository](https://g
 - In December I attended studing Stage#0 in **[Rolling Scopes School](https://rollingscopes.com/)**. I learned how to work with git and github services. 
 - And learned the basics of Markdown when I wrote this introduction. 
 - Also I repeat basics of Html and css while studing at RSSchool. 
-- And use **(https://code-basics.com)** to repeat CSS and other disciplines.
+- And use **https://code-basics.com** to repeat CSS and other disciplines.
 - Also I learned courses on th **(stepik.org)**.
 
 ##### LANGUAGES 😄
