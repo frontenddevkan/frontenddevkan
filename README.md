@@ -5,7 +5,7 @@ position
 #### MY SKILLS
 - Git, Markdown;
 - HTML, CSS;
-- JavaScript (#JS);
+- JavaScript;
 - 
 
 #### MY CONTACTS
@@ -16,7 +16,7 @@ position
 
 #### EXPIRIENCE
 
-🌱  In outamn 2022 - I created for my doughter in begining for check mathmatics exersices. Than I changed a lot of this project and use **flexbox**, basics html and css. And made new design for it and prepare place 
+🌱  In outamn 2022 - At first I created for my doughter for check mathmatics exersices. Than I changed a lot of this project and use **flexbox**, basics html and css. And made new design for it and prepare place 
 for other new mini-projects with javascript code. [Link on repository](https://github.com/frontenddevkan/PortalForApps)
 
 🌱 In december 2022 - spring 2023 - I worked with **Landing Page** and learn **adaptive design**. And in this project I made the hamburger menu. [Repository](https://github.com/frontenddevkan/Plants_Landing). Also project use flexbox. 
