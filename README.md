@@ -21,7 +21,7 @@ for other new mini-projects with javascript code. [Link on repository](https://g
 
 🌱 In December 2022 - spring 2023 - I worked with **Landing Page** and learn **adaptive design**. And in this project I made the hamburger menu. [Repository](https://github.com/frontenddevkan/Plants_Landing). Also project use flexbox.   
 
-🌱 In May 2023 - I become a participant of Startup Community - **Peredelano Community**. There are streams for beginner junior frontend developers and a lot of live-coding sessions with live projects. It give me invaluable experience that I wished. 
+🌱 In May 2023 - I become a participant of Startup Community **(Peredelano Community)[http://discord.gg/peredelano]**. There are streams for beginner junior frontend developers and a lot of live-coding sessions with live projects. It give me invaluable experience that I wished. 
 
 #### STUDING 🔭  
 - In the begining of my studing in 2022 in September I learn html and css on **[FreeCodeCump.com](freeCodeCump.com)**; 
