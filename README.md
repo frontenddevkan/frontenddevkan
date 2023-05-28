@@ -19,7 +19,9 @@ position
 🌱  In outamn 2022 - At first I created for my doughter for check mathmatics exersices. Than I changed a lot of this project and use **flexbox**, basics html and css. And made new design for it and prepare place 
 for other new mini-projects with javascript code. [Link on repository](https://github.com/frontenddevkan/PortalForApps)
 
-🌱 In December 2022 - spring 2023 - I worked with **Landing Page** and learn **adaptive design**. And in this project I made the hamburger menu. [Repository](https://github.com/frontenddevkan/Plants_Landing). Also project use flexbox.   
+🌱 In December 2022 - March 2023 - I worked with **Landing Page** and learn **adaptive design** when I was participant of RSSchool. And in this project I made the hamburger menu. [Repository](https://github.com/frontenddevkan/Plants_Landing). Also project use flexbox.     
+
+🌱 In April 2023 - I start the **DragonWay** project - the app for sport activities and planning. Begining of learning **Javascript**. 
 
 🌱 In May 2023 - I become a participant of Startup Community **[Peredelano Community](http://discord.gg/peredelano)**. There are streams for beginner junior frontend developers and a lot of live-coding sessions with live projects. It give me invaluable experience that I wished. 
 
