@@ -25,7 +25,7 @@ for other new mini-projects with javascript code. [Link on repository](https://g
 
 🌱 In May 2023 - I become a participant of Startup Community **[Peredelano Community](http://discord.gg/peredelano)**. There are streams for beginner junior frontend developers and a lot of live-coding sessions with live projects. It give me invaluable experience that I wished.   
 
-[Peredelano Community](http://discord.gg/peredelano) make product ecosystem for expats and other programmers openly.You can meet a lot of IT experienced professionals with different technology stack who willingly share their experience with other specialists.
+[Peredelano Community](http://discord.gg/peredelano) make product ecosystem for expats and other programmers openly. You can meet a lot of IT experienced professionals with different technology stack who willingly share their experience with other specialists.
 
 Also I become a moderator of this dynamically developing Community in **[Telegram](https://t.me/peredelanostartups/13)**. 
 
