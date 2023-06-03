@@ -32,7 +32,7 @@ Also I become a moderator of this dynamically developing Community in **[Telegra
  
 
 #### STUDING 🔭  
-- In the begining of my studing in 2022 in September I learn html and css on **[FreeCodeCump.com](freeCodeCump.com)**; 
+- In the begining of my studing in 2022 in September I learn html, css and javascript on **[FreeCodeCump.com](freeCodeCump.com)**; 
 - and I used sumulators on **HTML-academy** and some **apps** on my cell phone to study basic theory.  
 - In December I attended studing Stage#0 in **[Rolling Scopes School](https://rollingscopes.com/)**. I learned how to work with git and github services. 
 - And learned the basics of Markdown when I wrote this introduction. 
