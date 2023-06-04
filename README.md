@@ -38,6 +38,7 @@ Also I become a moderator of this dynamically developing Community in **[Telegra
 - Also I repeat basics of Html and css while studing at RSSchool. 
 - And use **[Code-Basic from Hexlet](https://code-basics.com)** to repeat CSS and other disciplines.
 - Also I learned courses on th **[Stepik.org](stepik.org)**.
+- Books: "Javascript for Kids" (
 
 ##### LANGUAGES 😄
 - English (A-B)
