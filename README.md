@@ -28,7 +28,6 @@ for other new mini-projects with javascript code. [Link on repository](https://g
 [Peredelano Community](http://discord.gg/peredelano) make product ecosystem for expats and other programmers openly. You can meet a lot of IT experienced professionals with different technology stack who willingly share their experience with other specialists.
 
 Also I become a moderator of this dynamically developing Community in **[Telegram](https://t.me/peredelanostartups/13)**. 
-
  
 
 #### STUDING 🔭  
