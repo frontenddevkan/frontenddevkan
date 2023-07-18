@@ -1,5 +1,7 @@
-### Hello! 👋   My name is Ekaterina. I am studing on 
-## Frontend Developer position
+### Hello! 👋   
+#### My name is Ekaterina. 
+And I am studing on 
+### Frontend Developer 
 
 #### MY SKILLS
 - Markdown; HTML, CSS, Sass; JavaScript;
@@ -10,29 +12,6 @@
 - 📫 email: ekaterinalayout@gmail.com 
 - 📫 telegram: @frontendKat
 - Russia
-
-#### EXPIRIENCE ⚡
-
-🌱 July 2023 - Now I start to create my new project for using by [Community Peredelano](https://t.me/+SFNoVxR6Nk85ZDYy) named **Community Hunter**. 
-
-
-
-🌱 In April 2023 - I start the **[DragonWay](https://github.com/frontenddevkan/DragonWay)** project - the app for sport activities and planning. Begining of learning **Javascript**. And in this project I use **Sass**.
-
-🌱 In May 2023 - I become a participant of Startup Community **[Peredelano Community](https://t.me/+SFNoVxR6Nk85ZDYy)**. There are streams for beginner junior frontend developers and a lot of live-coding sessions with live projects. It give me invaluable experience that I wished.   
-
-[Peredelano Community](https://t.me/+SFNoVxR6Nk85ZDYy) make product ecosystem for expats and other programmers openly. You can meet a lot of IT experienced professionals with different technology stack who willingly share their experience with other specialists.
-
-Also I become a moderator of this dynamically developing Community in **[Telegram](https://t.me/+SFNoVxR6Nk85ZDYy)**. 
-- found programmers to startups
-- get streams
-- livecodings
-- lessons of react
-- lessons for get a job
-- layouts
-- структурирование информации
-- a lot of work in figma
-
 
 
 #### STUDING 🔭  
@@ -48,6 +27,26 @@ Also I become a moderator of this dynamically developing Community in **[Telegra
 ##### LANGUAGES 😄
 - English (A-B)
 - Russian
+
+#### EXPIRIENCE ⚡
+
+🌱 July 2023 - Now I start to create my new project for using by [Community Peredelano](https://t.me/+SFNoVxR6Nk85ZDYy) named **Community Hunter**. Проект Community Hunter - задача которого вести поиск, сбор и структурирование новой информации, консультирование по запросам от клиента и выдача результатов. 
+
+🌱 In May 2023 - I become a participant of Startup Community **[Peredelano Community](https://t.me/+SFNoVxR6Nk85ZDYy)**. There are streams for beginner junior frontend developers and a lot of live-coding sessions with live projects. It give me invaluable experience that I wished.   
+
+[Peredelano Community](https://t.me/+SFNoVxR6Nk85ZDYy) make product ecosystem for expats and other programmers openly. You can meet a lot of IT experienced professionals with different technology stack who willingly share their experience with other specialists.
+
+Also I become a moderator of this dynamically developing Community in **[Telegram](https://t.me/+SFNoVxR6Nk85ZDYy)**. 
+- found programmers to startups
+- get streams
+- livecodings
+- lessons of react
+- lessons for get a job
+- layouts
+- структурирование информации
+- a lot of work in figma
+
+🌱 In April 2023 - I start the **[DragonWay](https://github.com/frontenddevkan/DragonWay)** project - the app for sport activities and planning. Begining of learning **Javascript**. And in this project I use **Sass**.
 
 🌱 In December 2022 - March 2023 - I worked with **Landing Page** and learn **adaptive design** when I was participant of RSSchool. And in this project I made the hamburger menu. [Repository](https://github.com/frontenddevkan/Plants_Landing). Also project use flexbox.     
 
