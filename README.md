@@ -2,10 +2,8 @@
 ## Frontend Developer position
 
 #### MY SKILLS
-- Git, Markdown;
-- HTML, CSS, Sass;
-- JavaScript;
-- 
+- Markdown; HTML, CSS, Sass; JavaScript;
+- figma, github, Git; 
 
 #### MY CONTACTS 💬
 - [github](https://github.com/frontenddevkan)
@@ -33,6 +31,7 @@ Also I become a moderator of this dynamically developing Community in **[Telegra
 - lessons for get a job
 - layouts
 - структурирование информации
+- a lot of work in figma
 
 
 
