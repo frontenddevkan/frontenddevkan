@@ -1,6 +1,5 @@
 ### Hello! 👋   My name is Ekaterina. I am studing on 
-## Frontend Developer 
-position
+## Frontend Developer position
 
 #### MY SKILLS
 - Git, Markdown;
@@ -16,10 +15,9 @@ position
 
 #### EXPIRIENCE ⚡
 
-🌱  In outamn 2022 - At first I created for my doughter for check mathmatics exersices. Than I changed a lot of this project and use **flexbox**, basics html and css. And made new design for it and prepare place 
-for other new mini-projects with javascript code. [Link on repository](https://github.com/frontenddevkan/PortalForApps)
+🌱 July 2023 - Now I start to create my new project for using by [Community Peredelano](https://t.me/+SFNoVxR6Nk85ZDYy) named **Community Hunter**. 
 
-🌱 In December 2022 - March 2023 - I worked with **Landing Page** and learn **adaptive design** when I was participant of RSSchool. And in this project I made the hamburger menu. [Repository](https://github.com/frontenddevkan/Plants_Landing). Also project use flexbox.     
+
 
 🌱 In April 2023 - I start the **[DragonWay](https://github.com/frontenddevkan/DragonWay)** project - the app for sport activities and planning. Begining of learning **Javascript**. And in this project I use **Sass**.
 
@@ -28,7 +26,15 @@ for other new mini-projects with javascript code. [Link on repository](https://g
 [Peredelano Community](https://t.me/+SFNoVxR6Nk85ZDYy) make product ecosystem for expats and other programmers openly. You can meet a lot of IT experienced professionals with different technology stack who willingly share their experience with other specialists.
 
 Also I become a moderator of this dynamically developing Community in **[Telegram](https://t.me/+SFNoVxR6Nk85ZDYy)**. 
- 
+- found programmers to startups
+- get streams
+- livecodings
+- lessons of react
+- lessons for get a job
+- layouts
+- структурирование информации
+
+
 
 #### STUDING 🔭  
 - In the begining of my studing in 2022 in September I learn html, css and javascript on **[FreeCodeCump.com](freeCodeCump.com)**; 
@@ -44,4 +50,8 @@ Also I become a moderator of this dynamically developing Community in **[Telegra
 - English (A-B)
 - Russian
 
+🌱 In December 2022 - March 2023 - I worked with **Landing Page** and learn **adaptive design** when I was participant of RSSchool. And in this project I made the hamburger menu. [Repository](https://github.com/frontenddevkan/Plants_Landing). Also project use flexbox.     
+
+🌱  In outamn 2022 - At first I created for my doughter for check mathmatics exersices. Than I changed a lot of this project and use **flexbox**, basics html and css. And made new design for it and prepare place 
+for other new mini-projects with javascript code. [Link on repository](https://github.com/frontenddevkan/PortalForApps)
 
