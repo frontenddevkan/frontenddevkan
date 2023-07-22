@@ -29,7 +29,7 @@ Also I become a moderator of this dynamically developing Community in **[Telegra
 - lessons of react
 - lessons for get a job
 - layouts
-- структурирование информации
+- structuring information
 - a lot of work in figma
 
 🌱 In April 2023 - I start the **[DragonWay](https://github.com/frontenddevkan/DragonWay)** project - the app for sport activities and planning. Begining of learning **Javascript**. And in this project I use **Sass**.
@@ -39,7 +39,7 @@ Also I become a moderator of this dynamically developing Community in **[Telegra
 🌱  In outamn 2022 - At first I created for my doughter for check mathmatics exersices. Than I changed a lot of this project and use **flexbox**, basics html and css. And made new design for it and prepare place 
 for other new mini-projects with javascript code. [Link on repository](https://github.com/frontenddevkan/PortalForApps)
 
-#### STUDING 🔭  
+#### STUDYING 🔭  
 - In the begining of my studing in 2022 in September I learn html, css and javascript on **[FreeCodeCump.com](freeCodeCump.com)**; 
 - and I used sumulators on **HTML-academy** and some **apps** on my cell phone to study basic theory.  
 - In December I attended studing Stage#0 in **[Rolling Scopes School](https://rollingscopes.com/)**. I learned how to work with git and github services. 
