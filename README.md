@@ -1,32 +1,18 @@
-### Hello! 👋   
-#### My name is Ekaterina. 
-And I am studing on 
-### Frontend Developer 
+# I am studing on Frontend Developer 
 
-#### MY SKILLS
-- Markdown; HTML, CSS, Sass; JavaScript;
-- figma, github, Git; 
+## MY SKILLS
 
-#### MY CONTACTS 💬
+- JavaScript (learning);
+- HTML, CSS, Sass;
+- github, Git;
+- Markdown;
+- figma; 
+
+ ### MY CONTACTS 💬
 - [github](https://github.com/frontenddevkan)
 - 📫 email: ekaterinalayout@gmail.com 
 - 📫 telegram: @frontendKat
-- Russia
-
-
-#### STUDING 🔭  
-- In the begining of my studing in 2022 in September I learn html, css and javascript on **[FreeCodeCump.com](freeCodeCump.com)**; 
-- and I used sumulators on **HTML-academy** and some **apps** on my cell phone to study basic theory.  
-- In December I attended studing Stage#0 in **[Rolling Scopes School](https://rollingscopes.com/)**. I learned how to work with git and github services. 
-- And learned the basics of Markdown when I wrote this introduction. 
-- Also I repeat basics of Html and css while studing at RSSchool. 
-- And use **[Code-Basic from Hexlet](https://code-basics.com)** to repeat CSS and other disciplines.
-- Also I learned courses on th **[Stepik.org](stepik.org)**.
-- Books: "Javascript for Kids" (), "JavaScript Interview Questions & Answers", 
-
-##### LANGUAGES 😄
-- English (A-B)
-- Russian
+  
 
 #### EXPIRIENCE ⚡
 
@@ -53,3 +39,16 @@ Also I become a moderator of this dynamically developing Community in **[Telegra
 🌱  In outamn 2022 - At first I created for my doughter for check mathmatics exersices. Than I changed a lot of this project and use **flexbox**, basics html and css. And made new design for it and prepare place 
 for other new mini-projects with javascript code. [Link on repository](https://github.com/frontenddevkan/PortalForApps)
 
+#### STUDING 🔭  
+- In the begining of my studing in 2022 in September I learn html, css and javascript on **[FreeCodeCump.com](freeCodeCump.com)**; 
+- and I used sumulators on **HTML-academy** and some **apps** on my cell phone to study basic theory.  
+- In December I attended studing Stage#0 in **[Rolling Scopes School](https://rollingscopes.com/)**. I learned how to work with git and github services. 
+- And learned the basics of Markdown when I wrote this introduction. 
+- Also I repeat basics of Html and css while studing at RSSchool. 
+- And use **[Code-Basic from Hexlet](https://code-basics.com)** to repeat CSS and other disciplines.
+- Also I learned courses on **[Stepik.org](stepik.org)**.
+- Books: "Javascript for Kids" (), "JavaScript Interview Questions & Answers", 
+
+##### LANGUAGES 😄
+- English (A-B)
+- Russian
