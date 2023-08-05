@@ -1,4 +1,4 @@
-# I am studing on Frontend Developer 
+# I am studying on Frontend Developer 
 
 ## MY SKILLS
 
