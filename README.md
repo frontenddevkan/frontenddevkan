@@ -23,16 +23,18 @@
 [Peredelano Community](https://t.me/+SFNoVxR6Nk85ZDYy) make product ecosystem for expats and other programmers openly. You can meet a lot of IT experienced professionals with different technology stack who willingly share their experience with other specialists.
 
 Also I become a moderator of this dynamically developing Community in **[Telegram](https://t.me/+SFNoVxR6Nk85ZDYy)**. 
-- found programmers to startups
-- get streams
-- livecodings
-- lessons of react
-- lessons for get a job
-- layouts
-- structuring information
-- a lot of work in figma
+And what I do in this community:
+- found programmers to startups;
+- got a part of streams;
+- livecodings;
+- lessons of react;
+- lessons for get a job;
+- helped in making of layouts;
+- structuring comminity information;
+- a lot of work in figma;
+- and a lot of chatting with other experienced programmers.
 
-🌱 In April 2023 - I start the **[DragonWay](https://github.com/frontenddevkan/DragonWay)** project - the app for sport activities and planning. Begining of learning **Javascript**. And in this project I use **Sass**.
+🌱 In April 2023 - I start the **[DragonWay](https://github.com/frontenddevkan/DragonWay)** project - in layour I used **Sass**.
 
 🌱 In December 2022 - March 2023 - I worked with **Landing Page** and learn **adaptive design** when I was participant of RSSchool. And in this project I made the hamburger menu. [Repository](https://github.com/frontenddevkan/Plants_Landing). Also project use flexbox.     
 
