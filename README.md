@@ -2,7 +2,7 @@
 
 ## MY SKILLS
 
-- JavaScript (learning);
+- JavaScript (learning); 
 - HTML, CSS, Sass;
 - github, Git;
 - Markdown;
@@ -13,7 +13,10 @@
 - 📫 email: ekaterinalayout@gmail.com 
 - 📫 telegram: @frontendKat
 - twitter: @frontendEka
-  
+
+#### EDUCATION
+- higher education in Tyumen State Institute of World Economy, Management and Law. (in person 2004-2009)
+
 #### EXPIRIENCE ⚡
 
 🌱 In July 2023 - created **[channel for juniors frontend developers](https://t.me/digitalsova)**
@@ -24,12 +27,14 @@
 
 Also I become a moderator of this dynamically developing Community in **[Telegram](https://t.me/+SFNoVxR6Nk85ZDYy)**. 
 And what I do in this community:
+
 - found programmers to startups;
 - got a part of streams;
 - livecodings;
 - lessons of react;
 - lessons for get a job;
 - helped in making of layouts;
+- created many avatars for groups dedicated to PeredelanoConf conferences with **Figma**
 - structuring comminity information;
 - a lot of work in figma;
 - and a lot of chatting with other experienced programmers.
@@ -38,8 +43,8 @@ And what I do in this community:
 
 🌱 In December 2022 - March 2023 - I worked with **Landing Page** and learn **adaptive design** when I was participant of RSSchool. And in this project I made the hamburger menu. [Repository](https://github.com/frontenddevkan/Plants_Landing). Also project use flexbox.     
 
-🌱  In outamn 2022 - At first I created for my doughter for check mathmatics exersices. Than I changed a lot of this project and use **flexbox**, basics html and css. And made new design for it and prepare place 
-for other new mini-projects with javascript code. [Link on repository](https://github.com/frontenddevkan/PortalForApps)
+🌱  In outamn 2022 - At first I created for my doughter for check mathmatics exersices. Than I changed a lot of this project and use **flexbox**, basics **html** and **css**. And made new design for it and prepare place 
+for other new mini-projects with javascript code. **[Link on repository](https://github.com/frontenddevkan/PortalForApps)**
 
 #### STUDYING 🔭  
 - In the begining of my studying in 2022 in September I learn html, css and javascript on **[FreeCodeCump.com](freeCodeCump.com)**; 
@@ -52,9 +57,19 @@ for other new mini-projects with javascript code. [Link on repository](https://g
 - Books:
 "Javascript for Kids",
 "JavaScript Interview Questions & Answers",
-
+ 
 - In 2023 in July I start like my own tracker roadmap for frontend to have a tamp of learning Frontend Dev. And created a channel in Telegram app https://t.me/digitalsova
 
 ##### LANGUAGES 😄
 - English (A-B)
 - Russian
+
+#### MY GOALS
+
+Since I chose frontend development as my new profession, I have been striving to become a professional in this field of activity. 
+I hope that someday I will bear the proud title of signor frontend developer. 
+In the future, I would like to make applications based on my interests, which I was previously busy with. 
+But now I'm looking for an idea to create some kind of resource for coworking of any specialists, in particular, the frontenders or other developers.
+
+I also dream to become a participant of some interesting startup. 
+
