@@ -9,7 +9,7 @@
 - figma; 
 
  ### MY CONTACTS 💬
-- [github](https://github.com/frontenddevkan)
+- **[github](https://github.com/frontenddevkan)**
 - 📫 email: ekaterinalayout@gmail.com 
 - 📫 telegram: @frontendKat
 - twitter: @frontendEka
@@ -39,7 +39,8 @@ And what I do in this community:
 - a lot of work in figma;
 - and a lot of chatting with other experienced programmers.
 
-🌱 In April 2023 - I start the **[DragonWay](https://github.com/frontenddevkan/DragonWay)** project - in layour I used **Sass**.
+🌱 In April 2023 - I start the **[DragonWay](https://github.com/frontenddevkan/DragonWay)** project - in layour I used **Sass**. 
+- And start this repository as my CV using **Markdown**.
 
 🌱 In December 2022 - March 2023 - I worked with **Landing Page** and learn **adaptive design** when I was participant of RSSchool. And in this project I made the hamburger menu. [Repository](https://github.com/frontenddevkan/Plants_Landing). Also project use flexbox.     
 
