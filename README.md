@@ -7,15 +7,10 @@
 - github, Git;
 - Markdown;
 - figma;
-- ### Skills
 
 
-<p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
-</p>
 
-
- ### MY CONTACTS 💬
+### MY CONTACTS 💬
 - **[github](https://github.com/frontenddevkan)**
 - 📫 email: ekaterinalayout@gmail.com 
 - 📫 telegram: @frontendKat
