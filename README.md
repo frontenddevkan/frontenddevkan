@@ -6,7 +6,14 @@
 - HTML, CSS, Sass;
 - github, Git;
 - Markdown;
-- figma; 
+- figma;
+- ### Skills
+
+
+<p align="left">
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+</p>
+
 
  ### MY CONTACTS 💬
 - **[github](https://github.com/frontenddevkan)**
