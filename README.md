@@ -1,13 +1,12 @@
-# I am studying on Frontend Developer 
+# Frontend Developer 
 
 ## MY SKILLS
 
-- JavaScript (learning); 
+- JavaScript; Typescript;
 - HTML, CSS, Sass;
 - github, Git;
 - Markdown;
 - figma;
-
 
 
 ### MY CONTACTS 💬
@@ -20,6 +19,8 @@
 - higher education in Tyumen State Institute of World Economy, Management and Law. (in person 2004-2009)
 
 #### EXPIRIENCE ⚡
+
+🌱 In autumn 2023 - I hard learn javascript and make a projects with it and portfolio for job. 
 
 🌱 In July 2023 - created **[channel for juniors frontend developers](https://t.me/digitalsova)**
 
