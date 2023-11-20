@@ -21,7 +21,7 @@
 
 #### EXPIRIENCE ⚡
 
-🌱 In October 2023 - I worked with [payed multi-page site](https://dotorhomeopath.ru)
+🌱 In October 2023 - I worked with [payed multi-page site](https://doctorhomeopath.ru)
 
 🌱 In autumn 2023 - I hard learn javascript and make a projects with it and portfolio for job.
 
