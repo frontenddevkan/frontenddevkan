@@ -3,7 +3,7 @@
 ## MY SKILLS
 
 - JavaScript; Typescript;
-- HTML, CSS, Sass;
+- HTML, CSS, Sass, less;
 - github, Git;
 - Markdown;
 - figma;
