@@ -1,4 +1,5 @@
-1/ #Фронтенд #SMM #SEO #mobile Developer
+#Фронтенд 
+#mobile Developer
 
 ## MY SKILLS
 
