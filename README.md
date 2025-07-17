@@ -1,20 +1,15 @@
-Фронтенд Developer
+# MY ACTIVITIES
 
-## MY SKILLS
-
-- HTML, CSS
-- github, Git;
-- Markdown;
-- figma
+- HTMl, CSS, js
+- CODEwARS,
+- github, Git; Markdown;
+- figma, 
 
 ### MY CONTACTS 💬
 - **[github](https://github.com/hellomagicworld)**
 - 📫 email: frontenddevkan@gmail.com ;
 - 📫 telegram: @hellomagicworld
-
-
-#### EDUCATION
-- higher education in Tyumen State Institute of World Economy, Management and Law. (in person 2004-2009)
+- MY CHANNEL in telegram https://t.me/+UuO7nAZ_Hg9kNTEy (@ihavementor) 
 
 #### EXPIRIENCE ⚡
 
@@ -67,3 +62,8 @@ And what I do in this community:
 #### MY GOALS
 
 create my own portal for planning 
+
+#### EDUCATION
+- higher education in Tyumen State Institute of World Economy, Management and Law. (in person 2004-2009)
+
+- 
