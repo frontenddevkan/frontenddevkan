@@ -1,7 +1,5 @@
 # MY ACTIVITIES
 
-- HTMl, CSS, js
-- CODEwARS,
 - github, Git; Markdown;
 - figma, 
 
