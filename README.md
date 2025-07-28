@@ -11,8 +11,6 @@
 - 📫 telegram: @hellomagicworld
 - MY CHANNEL in telegram https://t.me/+UuO7nAZ_Hg9kNTEy (@ihavementor) 
 
-⚡
-
 begin in september 2022 study frontend in apps and learn html, css and javascript on **[FreeCodeCump.com](freeCodeCump.com)
 and create chat for begining frontenders Frontendologia, have a part in intensiv 
 
