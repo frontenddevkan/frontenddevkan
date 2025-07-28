@@ -1,15 +1,17 @@
-# MY ACTIVITIES
+⚡ # stack
 
 - github, Git; Markdown;
-- figma, 
+- figma,
+- html, css;
+- 
 
-### MY CONTACTS 💬
+⚡ ### MY CONTACTS 💬
 - **[github](https://github.com/hellomagicworld)**
-- 📫 email: frontenddevkan@gmail.com ;
+- 📫 email: frontenddevkan@gmail.com 
 - 📫 telegram: @hellomagicworld
 - MY CHANNEL in telegram https://t.me/+UuO7nAZ_Hg9kNTEy (@ihavementor) 
 
-#### EXPIRIENCE ⚡
+⚡
 
 begin in september 2022 study frontend in apps and learn html, css and javascript on **[FreeCodeCump.com](freeCodeCump.com)
 and create chat for begining frontenders Frontendologia, have a part in intensiv 
