@@ -1,11 +1,11 @@
-⚡ # stack
+⚡ stack
 
 - github, Git; Markdown;
 - figma,
 - html, css;
 - 
 
-⚡ ### MY CONTACTS 💬
+⚡ MY CONTACTS 💬
 - **[github](https://github.com/hellomagicworld)**
 - 📫 email: frontenddevkan@gmail.com 
 - 📫 telegram: @hellomagicworld
