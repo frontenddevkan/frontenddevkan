@@ -11,8 +11,7 @@
 - 📫 telegram: @hellomagicworld
 - MY CHANNEL in telegram https://t.me/+UuO7nAZ_Hg9kNTEy (@ihavementor) 
 
-begin in september 2022 study frontend in apps and learn html, css and javascript on **[FreeCodeCump.com](freeCodeCump.com)
-and create chat for begining frontenders Frontendologia, have a part in intensiv 
+- begin in september 2022 study frontend in apps and learn html, css and javascript and create chat for begining frontenders Frontendologia, have a part in intensiv ownec Roman Chernov. 
 
 In autumn 2022 - At first I created for my doughter for check mathmatics exersices. Than I changed a lot of this project and use **flexbox**, basics **html** and **css**. And made new design for it and prepare place
 for other new mini-projects with javascript code. **[Link on repository](https://github.com/frontenddevkan/PortalForApps)**
@@ -64,4 +63,5 @@ create my own portal for planning
 #### EDUCATION
 - higher education in Tyumen State Institute of World Economy, Management and Law. (in person 2004-2009)
 
+- **[FreeCodeCump.com](freeCodeCump.com)
 - 
