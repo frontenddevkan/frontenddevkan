@@ -1,5 +1,4 @@
 ⚡ stack
-
 - github, Git; Markdown;
 - figma,
 - html, css;
