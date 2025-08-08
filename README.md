@@ -12,9 +12,7 @@
 
 - begin in september 2022 study frontend in apps and learn html, css and javascript and create chat for begining frontenders Frontendologia, have a part in intensiv ownec Roman Chernov. 
 - in ocober  - I used sumulators on **HTML-academy** and some **apps** on my cell phone to study basic theory.
-
-In noveber 2022 - start RSS-school (EPAM)
-[payed multi-page site](https://doctorhomeopath.ru)
+- In noveber 2022 - start RSS-school (EPAM) [payed multi-page site](https://doctorhomeopath.ru)
 
 In December 2022 - In December I attended studing Stage#0 in **[Rolling Scopes School](https://rollingscopes.com/)**. I learned how to work with git and github services.
 - And learned the basics of Markdown when I wrote this introduction.
