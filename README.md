@@ -18,18 +18,6 @@
 Also I become a moderator of this dynamically developing Community in **[Telegram](https://t.me/+SFNoVxR6Nk85ZDYy)**.
 
 
-- found programmers to startups;
-- got a part of streams;
-- livecodings;
-- watching lessons with react-coding;
-- lessons about interview questions;
-- helped in making of layout;
-- created many avatars for groups dedicated to PeredelanoConf conferences with **Figma**
-- structuring comminity information;
-- a lot of work in figma;
-- there was extensive communication with experienced programmers.
-
-
 ##### LANGUAGES 😄
 - English (A2);
 - Russian (native)
