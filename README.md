@@ -2,12 +2,16 @@
 - github, Git; Markdown;
 - figma,
 - html, css;
-- go 
+- go
+
+На данный момент ведется работа над собственным проектом. 
+На текущем этапе ведется написание телеграм-бота под проект. 
+
 
 ⚡ MY CONTACTS 💬
 - [github](https://github.com/hellomagicworld)**
 - 📫 email: frontenddevkan@gmail.com 
-- 📫 telegram: @hellomagicworld
+- 📫 telegram: @katSchrodinger
 - My channel in telegram https://t.me/+UuO7nAZ_Hg9kNTEy (@ihavementor) 
 
 - begin in september 2022 study frontend in apps and learn html, css and javascript and create chat for begining frontenders Frontendologia, have a part in intensiv ownec Roman Chernov. 
@@ -18,7 +22,8 @@
 Also I become a moderator of this dynamically developing Community in **[Telegram](https://t.me/+SFNoVxR6Nk85ZDYy)**.
 - in may 2025 - I get a menthor senior fullstack developer
 - in september 2025 - I have study Go. I make telegram bot with go and study basic of this language.
--  
+- in october 2025 - continue my own project in html, css, js. And othe stacks. На нем планирую реализовать все знания, которые хотелось почерпнуть и испробовать на самом проекте.
+- 
 
 ##### LANGUAGES 😄
 - English (A2);
