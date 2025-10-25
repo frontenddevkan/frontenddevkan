@@ -1,4 +1,4 @@
-готовый коммерческий проект - [бот в телеграмме] (https://t.me/vmomentepro_bot)
+готовый коммерческий проект - [бот в телеграмме](https://t.me/vmomentepro_bot)
 новый проект, над которым сейчас работаю - https://t.me/katkickyourass_bot  
 
 ⚡ stack
