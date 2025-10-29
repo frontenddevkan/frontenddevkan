@@ -34,7 +34,7 @@
 - о себе: https://github.com/frontenddevkan/frontenddevkan
 - 
 
-- begin in september 2022 study frontend in apps and learn html, css and javascript and create chat for begining frontenders Frontendologia, have a part in intensiv ownec Roman Chernov. 
+create chat for begining frontenders Frontendologia, have a part in intensiv ownec Roman Chernov. 
 - in ocober  - I used sumulators on **HTML-academy** and some **apps** on my cell phone to study basic theory.
 - In noveber 2022 - start RSS-school (EPAM) [payed multi-page site](https://doctorhomeopath.ru) In December I attended studing Stage#0 in **[Rolling Scopes School](https://rollingscopes.com/)**. I learned how to work with git and github services. And learned the basics of Markdown when I wrote this introduction.
 - March 2023 - I worked with **Landing Page** and learn **adaptive design** when I was participant of RSSchool. And in this project I made the hamburger menu. [Repository](https://github.com/frontenddevkan/Landing). Also project use flexbox.
@@ -58,3 +58,17 @@ create my own portal for planning
 
 - **[FreeCodeCump.com](freeCodeCump.com)
 - 
+
+
+
+#BEGINING
+Как все начиналось... 
+Когда-то давно, когда я еще работала в колл-центрах... я решила, что надо не дават закиснуть мозгам своим, и решила качнуть какую-нибудь книжку по программированию. Почему-то в те годы, когда айти сфера еще не была на хайпе, мне самым универсальным показался java. В то время еще не было концепции "войти в айти" и т.п. 
+Хотела в перерывах на работе в моменты затишья ее почитывать, тупо на принтере распечатала и все 500 страниц таскала с собой... но работа такая, что как назло были авралы, и я забросила эту тему до поры. 
+Почему-то именно этот момент вспоминается, когда ищешь точку отсчета. Когда это семечко попало в почву и начало прорастать, пока я еще не подозревала, что я вообще рискну в это окунаться. )
+
+в 2021-м году, когда я уже подкопила достаточно средств и появились возможности, чтобы уйти из коллцентра... я уволняюсь. и вплотную занимаюсь дальше трейдингом который основную часть жизни шел параллельно со мной. И как-то однажды мне не понравилось, как отображается один индикатор в терминале. Я решила залезть в код индикатора, там даже для ламера выглядело все довольно доходчиво, я по аналогии нашла, где можно поправить нужную мне информацию. И вот тут что-то какое-то осознание начало приходить. Но по-прежнему я еще не стремилась в айти и в целом не собиралась менять специальность. Казалось, я для этого сильно далека слишком, чтобы меня могли серьезно как программиста рассматривать. 
+
+В 2022-м году, в последний день августа, наступал переломный момент и я стояла перед выбором, когда уже началась эта "айтишная мода", стало понятней, как можно выбрать более подходящее направление в программировании, из всего, что Немчинский рассказал по ассортименту, я выбрала frontend. 
+и вот 1 сентября 2022 года закачиваю все возможные приложения по html, css, js. И начинаю во все это вчитываться. Добавляюсь во всевозможные телграм каналы. И медленно начала заползать в новую для меня сферу. 
+
