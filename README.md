@@ -1,5 +1,6 @@
-#стэк HTML, CSS, JS
-##Этот проект - [Портфолио](https://github.com/frontenddevkan/Portfolio) - 
+# стэк HTML, CSS, JS
+#### [Портфолио](https://github.com/frontenddevkan/Portfolio)
+
 - бот простой таймер, позволяющий развлечь участников телеграм-группы, отсчитывающий время до важных дат.
 
 
