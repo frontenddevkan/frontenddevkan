@@ -6,17 +6,9 @@
 - 
 
 # GO
-####
+###
 
-#COMPLETE
-- готовый коммерческий проект - [бот в телеграмме](https://t.me/vmomentepro_bot)
-- https://t.me/katkickyourass_bot - помогает не забыть про простые задачи. получение уведомление через телеграм. - гит https://github.com/frontenddevkan/katkickyourass_bot
-
-
-
-#GO
-- https://github.com/frontenddevkan/hello-bot - первый бот, навайбкоденный для того, чтобы получить представление о том, как делаются телеграм-боты и как выглядит синтаксис языка го.
-- 
+готовый коммерческий проект - [бот в телеграмме](https://t.me/vmomentepro_bot)
 
 #QA
 - https://github.com/frontenddevkan/job - переделать проект под портфолио тестировщика.
