@@ -1,4 +1,4 @@
-⚡ stack
+# ⚡ stack
 - github, Git, Markdown;
 - figma, UX, UI;
 - html, css, saas;
@@ -7,13 +7,12 @@
 - cursor, openAI, gpt, deepseek;
 - fastAPI;
 
-💬 My contacts
+# 💬 My contacts
 - [github](https://github.com/hellomagicworld)**
 - 📫 email: frontenddevkan@gmail.com 
 - 📫 telegram: [@katSchrodinger](https://t.me/katSchrodinger)
 - о себе: https://github.com/frontenddevkan/frontenddevkan
-
-### EDUCATION
+## Education 
 - Higher education in Tyumen State Institute of World Economy, Management and Law. (in person 2004-2009)
 
 # UI/UX 
