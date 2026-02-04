@@ -17,7 +17,6 @@
 - Higher education in Tyumen State Institute of World Economy, Management and Law. (in person 2004-2009)
 
 # UI/UX 
-⚡ stack figma
 ## Проект [Портфолио](https://github.com/frontenddevkan/portfolio)
 - примеры работ, проектов, навыков
 - в фигме разработан макет портфолио, а также другие проекты как примеры работ
