@@ -7,7 +7,7 @@
 - cursor, openAI, gpt, deepseek;
 - fastAPI;
 
-💬 MY CONTACTS 
+💬 My contacts
 - [github](https://github.com/hellomagicworld)**
 - 📫 email: frontenddevkan@gmail.com 
 - 📫 telegram: [@katSchrodinger](https://t.me/katSchrodinger)
