@@ -1,10 +1,11 @@
 ⚡ stack
 - github, Git; Markdown;
-- figma,
-- html, css;
-- go
-- python
-- cursor, openAI, gpt, deepseek
+- figma;
+- html, css, saas;
+- go, telegramAPI;
+- python;
+- cursor, openAI, gpt, deepseek;
+- fastAPI;
 
 💬 MY CONTACTS 
 - [github](https://github.com/hellomagicworld)**
@@ -12,18 +13,19 @@
 - 📫 telegram: [@katSchrodinger](https://t.me/katSchrodinger)
 - о себе: https://github.com/frontenddevkan/frontenddevkan
 
-#### EDUCATION
+### EDUCATION
 - Higher education in Tyumen State Institute of World Economy, Management and Law. (in person 2004-2009)
 
-********************
-
 # UI/UX
+⚡ stack figma
+проект: *******
 
-- figma
 
-- 
 
-****************************************************************
+
+
+
+
 # GO
 ### самые часто используемые мной боты: 
 since september 2025 - I have study Go. I make telegram bot with go and study basic of this language. 
@@ -91,6 +93,6 @@ Also I become a moderator of this dynamically developing Community in **[Telegra
 - in may 2025 - I get a menthor senior fullstack developer
 
 ****************************
-#QA
+# QA
 
 *****************************
