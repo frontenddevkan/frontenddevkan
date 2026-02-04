@@ -8,7 +8,7 @@
 - fastAPI;
 
 # 💬 My contacts
-- [github](https://github.com/hellomagicworld)**
+- [github](https://github.com/hellomagicworld)
 - 📫 email: frontenddevkan@gmail.com 
 - 📫 telegram: [@katSchrodinger](https://t.me/katSchrodinger)
 - о себе: https://github.com/frontenddevkan/frontenddevkan
