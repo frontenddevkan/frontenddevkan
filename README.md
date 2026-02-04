@@ -1,6 +1,6 @@
 ⚡ stack
-- github, Git; Markdown;
-- figma;
+- github, Git, Markdown;
+- figma, UX, UI;
 - html, css, saas;
 - go, telegramAPI;
 - python;
@@ -16,17 +16,23 @@
 ### EDUCATION
 - Higher education in Tyumen State Institute of World Economy, Management and Law. (in person 2004-2009)
 
-# UI/UX
+# UI/UX 
 ⚡ stack figma
-
-## проект [Портфолио](https://github.com/frontenddevkan/portfolio)
+## Проект [Портфолио](https://github.com/frontenddevkan/portfolio)
 - примеры работ, проектов, навыков
 - в фигме разработан макет портфолио, а также другие проекты как примеры работ
 ### Задачи
 - показать умение создания макета для сайта
 - для мобилки - адаптив
+- продумывание UX и UI дизайна;
+- исправление ошибок на старых проектах.
+- разработка макета с нуля
+#### Технологии: 
+- figma;
+- Cursor, GPT, Deepseek;
+- html, css, js;
+- Git, Github;
 - 
-
 
 
 
