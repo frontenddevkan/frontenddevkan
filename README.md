@@ -15,6 +15,10 @@
 ## Education 
 - Higher education in Tyumen State Institute of World Economy, Management and Law. (in person 2004-2009)
 
+# QA
+
+*****************************
+
 # UI/UX 
 ## Проект [Портфолио](https://github.com/frontenddevkan/portfolio)
 - примеры работ, проектов, навыков
@@ -107,6 +111,5 @@ Also I become a moderator of this dynamically developing Community in **[Telegra
 - in may 2025 - I get a menthor senior fullstack developer
 
 ****************************
-# QA
 
-*****************************
+
