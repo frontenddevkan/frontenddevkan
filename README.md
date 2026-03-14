@@ -1,18 +1,16 @@
-### ⚡ stack
-- github, Git, Markdown;
-- figma, UX, UI;
-- html, css, saas;
-- go, telegramAPI;
-- python;
-- cursor, openAI, gpt, deepseek;
-- fastAPI;
-
 # QA
-### Проект, посвященный созданию баг-репортов (https://frontenddevkan.github.io/bug-reports/)
+
+### Проект, посвященный созданию платформы для [Тестировщиков] (https://frontenddevkan.github.io/bug-reports/)
+(https://frontenddevkan.github.io/bug-reports/)
+
 #### Задачи
-- тренировка создания баг-репортов
+- тренировка создания баг-репортов,
+- написание документации,
+- создание чек-листов, тест-кейсов
 - более быстрое усвоение теории тестирования
-#### Технологии: 
+- тесты на проверку знаний по тестированию
+
+#### Используемые технологии: 
 - браузерный localStorage;
 - Cursor, GPT, Deepseek;
 - HTML, CSS, JavaScript (vanilla, без фреймворков);
@@ -22,9 +20,15 @@
 - о себе [github](https://github.com/frontenddevkan)
 - 📫 email: frontenddevkan@gmail.com 
 - 📫 telegram: [@katSchrodinger](https://t.me/katSchrodinger)
+- [HeadHunter резюме](https://tyumen.hh.ru/resume/442af3e1ff102404470039ed1f6a4334537174)
 
 #### Education 
-- Higher education in Tyumen State Institute of World Economy, Management and Law. (in person 2004-2009)
+- Higher education in Tyumen State Institute of World Economy, Management and Law. (2004-2009)
+
+
+
+
+## Other interests
 
 # GO
 - [tgworkspace_bot](https://github.com/frontenddevkan/tgworkspace_bot) - программка для трекинга рабочего времени и перерывов, помогающая отслеживать рабочие дни, расписание интервала работы, перерыва, отпусков, зарплаты, аванса, выходные дни, график смен и т.д.
@@ -68,5 +72,18 @@ Also I become a moderator of this dynamically developing Community in **[Telegra
 - in may 2025 - I get a menthor senior fullstack developer
 
 ****************************
+-----------------------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++
+*****************************************************
+////////////////////////////////////////////////////////
 
+ссылки на работы
 
+### ⚡ stack
+- github, Git, Markdown;
+- figma, UX, UI;
+- html, css, saas;
+- go, telegramAPI;
+- python; FastAPI;
+- cursor, openAI, gpt, deepseek;
+  
