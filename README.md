@@ -1,6 +1,6 @@
 # QA
 
-### Проект, посвященный созданию платформы для [Тестировщиков] (https://frontenddevkan.github.io/bug-reports/)
+### Проект, посвященный созданию платформы для [Тестировщиков](https://frontenddevkan.github.io/bug-reports/)
 (https://frontenddevkan.github.io/bug-reports/)
 
 #### Задачи
