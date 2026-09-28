@@ -1,4 +1,33 @@
-# QA
+# Екатерина | Java Developer
+
+Java Developer in Progress
+
+## About Me
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+использовала ранее в проектах и знакома с основами:
+
+
+
+
+
+##QA
 
 ### Проект, посвященный созданию платформы для [Тестировщиков](https://frontenddevkan.github.io/bug-reports/)
 (https://frontenddevkan.github.io/bug-reports/)
