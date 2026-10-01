@@ -1,6 +1,6 @@
 # Екатерина | Java Developer
 
-Java Developer in Progress - 🚀 **Ищу стажировку / Java Developer (с графиком 2/2))**
+Java Developer in Progress - 🚀 **Ищу стажировку / Java Developer (с графиком 2/2)**
 
 ## About Me
 
@@ -21,29 +21,7 @@ Java Developer in Progress - 🚀 **Ищу стажировку / Java Developer
 
 
 
-использовала ранее в проектах и знакома с основами:
-
-
-
-
-
-##QA
-
-### Проект, посвященный созданию платформы для [Тестировщиков](https://frontenddevkan.github.io/bug-reports/)
-(https://frontenddevkan.github.io/bug-reports/)
-
-#### Задачи
-- тренировка создания баг-репортов,
-- написание документации,
-- создание чек-листов, тест-кейсов
-- более быстрое усвоение теории тестирования
-- тесты на проверку знаний по тестированию
-
-#### Используемые технологии: 
-- браузерный localStorage;
-- Cursor, GPT, Deepseek;
-- HTML, CSS, JavaScript (vanilla, без фреймворков);
-- Git, Github, GitHub Pages;
+Использовала ранее в проектах и знакома с основами:
 
 #### 💬 My contacts
 - о себе [github](https://github.com/frontenddevkan)
@@ -115,6 +93,20 @@ Also I become a moderator of this dynamically developing Community in **[Telegra
 - figma, UX, UI;
 - html, css, saas;
 - go, telegramAPI;
-- python; FastAPI;
-- cursor, openAI, gpt, deepseek;
+- python; cursor, openAI, gpt, deepseek;
   
+### Проект, посвященный созданию платформы для [Тестировщиков](https://frontenddevkan.github.io/bug-reports/)
+(https://frontenddevkan.github.io/bug-reports/)
+
+#### Задачи
+- тренировка создания баг-репортов,
+- написание документации,
+- создание чек-листов, тест-кейсов
+- более быстрое усвоение теории тестирования
+- тесты на проверку знаний по тестированию
+
+#### Используемые технологии: 
+- браузерный localStorage;
+- Cursor, GPT, Deepseek;
+- HTML, CSS, JavaScript (vanilla, без фреймворков);
+- Git, Github, GitHub Pages;
