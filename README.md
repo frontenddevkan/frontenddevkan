@@ -1,6 +1,6 @@
 # Екатерина | Java Developer
 
-Java Developer in Progress
+Java Developer in Progress - 🚀 **Ищу стажировку / Java Developer (с графиком 2/2))**
 
 ## About Me
 
