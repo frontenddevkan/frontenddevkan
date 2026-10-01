@@ -9,7 +9,9 @@ Java-разработчик. Изучаю полный стек от Core Java �
 систем. Разрабатываю TerraSearch — учебный enterprise-style проект:
 платформа управления мастер-данными и поиска для e-commerce.
 
-Stack: Java, Java Core
+⚡ Stack: Java, Java Core, Java 17, 
+Git, GitHub, Gitlab, GitHub Pages; Markdown;
+
 
 
 ## 📂 Featured Projects
@@ -103,14 +105,7 @@ Also I become a moderator of this dynamically developing Community in **[Telegra
 - in may 2025 - I get a menthor senior fullstack developer
 
 ****************************
------------------------------------------------
 
-*****************************************************
-
-ссылки на работы
-
-### ⚡ stack
-- github, Git, Markdown;
 - figma, UX, UI;
 - html, css, saas;
 - go, telegramAPI;
@@ -130,7 +125,6 @@ Also I become a moderator of this dynamically developing Community in **[Telegra
 - браузерный localStorage;
 - Cursor, GPT, Deepseek;
 - HTML, CSS, JavaScript (vanilla, без фреймворков);
-- Git, Github, GitHub Pages;
 
 #### Education 
 - Higher education in Tyumen State Institute of World Economy, Management and Law. (2004-2009)
