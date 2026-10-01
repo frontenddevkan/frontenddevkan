@@ -1,8 +1,34 @@
-# Екатерина | Java Developer
+# Екатерина 
+## Java Developer
 
-Java Developer in Progress - 🚀 **Ищу стажировку / Java Developer (с графиком 2/2)**
+**Ищу стажировку / Java Developer (с графиком 2/2)**
 
 ## About Me
+
+Java-разработчик. Изучаю полный стек от Core Java до распределённых
+систем. Разрабатываю TerraSearch — учебный enterprise-style проект:
+платформа управления мастер-данными и поиска для e-commerce.
+
+Стек: Java 
+
+
+## 📂 Featured Projects
+
+### TerraSearch — E-commerce Master Data & Search Platform
+Распределённая платформа для управления каталогом товаров и поиска.
+**Stack:** Java, Spring Boot
+
+https://github.com/frontenddevkan/TERAsearch
+
+## 📫 Contact Me
+
+- **Email:** frontenddevkan@gmail.com
+- **Telegram:** @katSchrodinger
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontenddevkan&layout=compact&theme=dark)
+
 
 
 
