@@ -23,7 +23,9 @@ https://github.com/frontenddevkan/TERAsearch
 ## 📫 Contact Me
 
 - **Email:** frontenddevkan@gmail.com
-- **Telegram:** @katSchrodinger
+- **Telegram:** [@katSchrodinger](https://t.me/katSchrodinger)
+
+
 
 ## 📊 GitHub Stats
 
@@ -49,14 +51,7 @@ https://github.com/frontenddevkan/TERAsearch
 
 Использовала ранее в проектах и знакома с основами:
 
-#### 💬 My contacts
-- о себе [github](https://github.com/frontenddevkan)
-- 📫 email: frontenddevkan@gmail.com 
-- 📫 telegram: [@katSchrodinger](https://t.me/katSchrodinger)
-- [HeadHunter резюме](https://tyumen.hh.ru/resume/442af3e1ff102404470039ed1f6a4334537174)
 
-#### Education 
-- Higher education in Tyumen State Institute of World Economy, Management and Law. (2004-2009)
 
 #### Навыки
 
@@ -136,3 +131,10 @@ Also I become a moderator of this dynamically developing Community in **[Telegra
 - Cursor, GPT, Deepseek;
 - HTML, CSS, JavaScript (vanilla, без фреймворков);
 - Git, Github, GitHub Pages;
+
+#### Education 
+- Higher education in Tyumen State Institute of World Economy, Management and Law. (2004-2009)
+
+
+
+
