@@ -9,7 +9,7 @@ Java-разработчик. Изучаю полный стек от Core Java �
 систем. Разрабатываю TerraSearch — учебный enterprise-style проект:
 платформа управления мастер-данными и поиска для e-commerce.
 
-Стек: Java 
+Stack: Java, Java Core
 
 
 ## 📂 Featured Projects
