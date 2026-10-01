@@ -13,7 +13,6 @@ Java-разработчик. Изучаю полный стек от Core Java �
 Git, GitHub, Gitlab, GitHub Pages; Markdown;
 
 
-
 ## 📂 Featured Projects
 
 ### TerraSearch — E-commerce Master Data & Search Platform
@@ -26,7 +25,7 @@ https://github.com/frontenddevkan/TERAsearch
 
 - **Email:** frontenddevkan@gmail.com
 - **Telegram:** [@katSchrodinger](https://t.me/katSchrodinger)
-
+- GitHub: [frontenddevkan](https://github.com/frontenddevkan)
 
 
 ## 📊 GitHub Stats
