@@ -1,11 +1,10 @@
 # Екатерина | Java Developer 
 
-**Ищу стажировку Java Developer (готова работать полный день 3-4 дня в неделю )**
-
 ## About Me
 
 Java-разработчик. Изучаю полный стек от Core Java до распределённых
-систем. Разрабатываю TerraSearch — учебный enterprise-style проект:
+систем. 
+Разрабатываю TerraSearch — учебный enterprise-style проект:
 платформа управления мастер-данными и поиска для e-commerce.
 
 ⚡ Stack: 
@@ -46,18 +45,6 @@ https://github.com/frontenddevkan/TERAsearch
 
 
 
-
-
-
-
-
-Использовала ранее в проектах и знакома с основами:
-
-
-
-#### Навыки
-
-•	Ручное тестирование: Функциональное,
 
 
 
@@ -129,6 +116,10 @@ Also I become a moderator of this dynamically developing Community in **[Telegra
 #### Education 
 - Higher education in Tyumen State Institute of World Economy, Management and Law. (2004-2009)
 
+### QA
+•	Ручное тестирование: Функциональное
 
 
 
+
+•	Ручное тестирование: Функциональное,
